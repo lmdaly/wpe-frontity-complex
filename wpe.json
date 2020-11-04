@@ -1,0 +1,17 @@
+{
+  "name": "wpe-frontity-complex",
+  "repo": "konrad-glowacki/wpe-frontity-complex",
+  "environments": [
+    {
+      "name": "development",
+      "branch": "main",
+      "wp_environment_name": "kongloheaddev",
+      "secrets": [
+        {
+          "key": "FRONTITY_SERVE_PORT",
+          "value": "8080"
+        }
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     "serve": "frontity serve",
 
     "wpe-build": "frontity build",
-    "start": "frontity serve -p 8080"
+    "start": "frontity serve --port 8080"
   },
   "prettier": {},
   "dependencies": {

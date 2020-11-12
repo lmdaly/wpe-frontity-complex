@@ -12,7 +12,7 @@ const Header = ({ state }) => (
         </StyledLink>
         <Description>
           {state.frontity.description}
-          <p>Add some text</p>
+          <p>What a beautiful day!</p>
         </Description>
         <Nav />
       </SiteBranding>

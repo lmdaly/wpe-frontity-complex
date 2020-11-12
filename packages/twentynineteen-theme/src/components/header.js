@@ -10,7 +10,10 @@ const Header = ({ state }) => (
         <StyledLink link="/">
           <Title>{state.frontity.title}</Title>
         </StyledLink>
-        <Description>{state.frontity.description}</Description>
+        <Description>
+          {state.frontity.description}
+          <p>Add some text</p>
+        </Description>
         <Nav />
       </SiteBranding>
     </SiteBrandingContainer>

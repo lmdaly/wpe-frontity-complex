@@ -16,11 +16,11 @@
   },
   "prettier": {},
   "dependencies": {
-    "@frontity/core": "^1.4.0",
-    "@frontity/html2react": "^1.1.14",
-    "@frontity/tiny-router": "^1.0.17",
+    "@frontity/core": "^1.9.0",
+    "@frontity/html2react": "^1.4.0",
+    "@frontity/tiny-router": "^1.2.2",
     "@frontity/twentynineteen-theme": "./packages/twentynineteen-theme",
-    "@frontity/wp-source": "^1.4.2",
-    "frontity": "^1.4.2"
+    "@frontity/wp-source": "^1.9.1",
+    "frontity": "^1.12.0"
   }
 }

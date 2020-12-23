@@ -15,10 +15,9 @@ const settings = {
           color: "#0073aa",
           menu: [
             ["Home", "/"],
-            ["Nature", "/category/nature/"],
-            ["Travel", "/category/travel/"],
-            ["Japan", "/tag/japan/"],
-            ["About Us", "/about-us/"],
+            ["Fate", "/fate-it-protects-fools/"],
+            ["Enjoy", "/you-enjoyed-that/"],
+            ["Hello", "/hello-world/"],
           ],
           featured: {
             showOnList: true,
@@ -31,7 +30,8 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "https://dynahead.wpengine.com/",
+          url: "https://dynahead.wpengine.com/",
+          api: "https://dynahead.wpengine.com/wp-json",
         },
       },
     },

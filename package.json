@@ -18,7 +18,7 @@
     "@frontity/core": "^1.9.0",
     "@frontity/html2react": "^1.4.0",
     "@frontity/tiny-router": "^1.2.2",
-    "@frontity/twentynineteen-theme": "./packages/twentynineteen-theme",
+    "@frontity/twentynineteen-theme": "file:packages/twentynineteen-theme",
     "@frontity/wp-source": "^1.9.1",
     "frontity": "^1.12.0"
   }
